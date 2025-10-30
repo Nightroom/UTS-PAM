@@ -11,7 +11,7 @@ Berikut adalah tangkapan layar dari setiap halaman utama aplikasi:
 
 | Splash Screen | Pilihan Login/Register |
 | :---: | :---: |
-| ![Splash Screen](https://github.com/user-attachments/assets/cac7f4ca-39d4-498b-9444-a2aed524b0f3
+| ![Register Screen]( https://github.com/user-attachments/assets/adefd8ce-50d1-40df-ba69-83c268173fe8
 ) | ![Auth Choice Screen](<https://github.com/user-attachments/assets/2be29a9f-6f2a-49a5-8b91-934e4ba549cb
 ) |
 
