@@ -5,14 +5,15 @@ Aplikasi ini adalah proyek Ujian Tengah Semester (UTS) untuk mata kuliah Pengemb
 ## Penjelasan Singkat
 
 Aplikasi ini mensimulasikan alur pemesanan makanan, mulai dari pengguna baru melakukan registrasi, masuk ke aplikasi, melihat daftar menu makanan, memilih salah satu menu untuk melihat detailnya, melakukan proses checkout dengan mengisi alamat, hingga mendapatkan halaman konfirmasi pesanan.
-<img width="275" height="614" alt="image" src="https://github.com/user-attachments/assets/adefd8ce-50d1-40df-ba69-83c268173fe8" />
 ## Tangkapan Layar (Screenshots)
 
 Berikut adalah tangkapan layar dari setiap halaman utama aplikasi:
 
 | Splash Screen | Pilihan Login/Register |
 | :---: | :---: |
-| ![Splash Screen](https://github.com/user-attachments/assets/adefd8ce-50d1-40df-ba69-83c268173fe8) | ![Auth Choice Screen](https://github.com/user-attachments/assets/adefd8ce-50d1-40df-ba69-83c268173fe8) |
+| ![Splash Screen](https://github.com/user-attachments/assets/cac7f4ca-39d4-498b-9444-a2aed524b0f3
+) | ![Auth Choice Screen](<https://github.com/user-attachments/assets/2be29a9f-6f2a-49a5-8b91-934e4ba549cb
+) |
 
 | Register Screen | Login Screen |
 | :---: | :---: |
