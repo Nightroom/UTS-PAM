@@ -8,21 +8,5 @@ Aplikasi ini mensimulasikan alur pemesanan makanan, mulai dari pengguna baru mel
 ## Tangkapan Layar (Screenshots)
 
 Berikut adalah tangkapan layar dari setiap halaman utama aplikasi:
+<img width="364" height="783" alt="image" src="https://github.com/user-attachments/assets/9b8870e9-80ae-4624-a872-28bcf2e0ac1e" />
 
-| Splash Screen | Pilihan Login/Register |
-| :---: | :---: |
-| ![Register Screen]( https://github.com/user-attachments/assets/adefd8ce-50d1-40df-ba69-83c268173fe8
-) | ![Auth Choice Screen](<https://github.com/user-attachments/assets/2be29a9f-6f2a-49a5-8b91-934e4ba549cb
-) |
-
-| Register Screen | Login Screen |
-| :---: | :---: |
-| ![Register Screen](https://github.com/user-attachments/assets/adefd8ce-50d1-40df-ba69-83c268173fe8) | ![Login Screen](https://github.com/user-attachments/assets/adefd8ce-50d1-40df-ba69-83c268173fe8) |
-
-| Halaman Utama (Menu) | Halaman Detail Makanan |
-| :---: | :---: |
-| ![Home Screen](URL_GAMBAR_HOME_ANDA) | ![Detail Screen](URL_GAMBAR_DETAIL_ANDA) |
-
-| Halaman Checkout | Halaman Konfirmasi |
-| :---: | :---: |
-| ![Checkout Screen](URL_GAMBAR_CHECKOUT_ANDA) | ![Confirmation Screen](URL_GAMBAR_KONFIRMASI_ANDA) |Setelah Anda mengganti semua placeholder URL_GAMBAR... dengan gambar Anda (melalui drag and drop), klik tab Pratinjau (Preview). Anda akan melihat semua gambar tersusun rapi dalam tabel.Jika sudah terlihat bagus, klik Commit changes.
