@@ -8,5 +8,7 @@ Aplikasi ini mensimulasikan alur pemesanan makanan, mulai dari pengguna baru mel
 ## Tangkapan Layar (Screenshots)
 
 Berikut adalah tangkapan layar dari setiap halaman utama aplikasi:
+
+
 <img width="364" height="783" alt="image" src="https://github.com/user-attachments/assets/9b8870e9-80ae-4624-a872-28bcf2e0ac1e" />
 
